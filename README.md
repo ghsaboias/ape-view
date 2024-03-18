@@ -7,9 +7,10 @@ cd server
 python app.py
 ```
 
-Then, run the client:
+Then, to run the client (read the client README for more info):
 
 ```bash
+cd ..
 cd client
 npm run dev
 ```
